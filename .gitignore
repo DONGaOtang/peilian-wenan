@@ -1,0 +1,7 @@
+# 运行时生成的用户资产（不进仓库）
+koubo-assets/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.log
