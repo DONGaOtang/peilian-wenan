@@ -51,7 +51,7 @@ Say any of these to your AI:
 - "Help me make a talking-head video"
 - "Produce a video"
 - "Run the pipeline"
-- Or type `/peilian`
+- Or type `/dong-pl` (also `/peilian` / `/wenan-peilian`)
 
 ### 3. First run (P0 Account Diagnosis, ~10 min)
 
