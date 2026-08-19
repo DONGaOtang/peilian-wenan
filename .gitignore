@@ -5,3 +5,9 @@ koubo-assets/
 .DS_Store
 Thumbs.db
 *.log
+
+# 审查过程文档（仅本地存档，不进仓库）
+REVIEW-REPORT.md
+REMEDIATION-PLAN.md
+抖音事实核查报告.md
+心理学事实核查报告.md
